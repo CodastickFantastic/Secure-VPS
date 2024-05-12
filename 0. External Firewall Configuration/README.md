@@ -18,7 +18,7 @@ My personal choose for VPS Provider is **[Hostinger](https://hostinger.pl?REFERR
 
 ## Example of Firewall Configuration
 Following screen shows my configuration for **[Hostinger's External Firewall](https://hostinger.pl?REFERRALCODE=1WAIROUS35G77)**.\
-You can still use it to configure your Internal Firewalls, as it's only an tamplate.\
+You can still use it to configure your Internal Firewalls, as it's only a tamplate.\
 \
 What is most important abotu configuration is fact that it block all ports and allow connection to only specific ports(22 - IP Based, 80, 443).\
 **Red place is for your IP address to allow SSH communication only to specific IP's**
