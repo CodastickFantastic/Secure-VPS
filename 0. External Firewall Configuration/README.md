@@ -6,10 +6,10 @@ Properly configured Firewall is the first line of deffence of your Virtual Priva
 Before you decide to hosting your own VPS it's good to make a good research aboutu VPS providers.\
 Some of theme allow you to configure external firewall what is crucial in terms of security.\
 \
-Anyway if yor VPS provider do not allow you to configure external VPS there is nothing lost yet.\
+Anyway if yor VPS provider do not allow you to configure external Firewall there is nothing lost yet.\
 You can still:
 1. Create your own external firewall (eg. proxy)
-2. Confiure your internal VPS Firewall (eg. UFW)
+2. Configure your internal VPS Firewall (eg. UFW)
 
 As I like to make all my workflows simple I prefer to use External Firewalls.\
 It's much more easier and elegant to configure firewall via GUI (Graphical User Interface), rather than CMD (Command Line).
