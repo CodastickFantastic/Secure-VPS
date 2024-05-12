@@ -1,2 +1,2 @@
-# Secure-VPS---Traefik
-Repository contains secure workflow for your Traefik VPS 
+# Secure-VPS
+Repository contains minimal VPS security advice to protect your Server  
